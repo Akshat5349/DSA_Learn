@@ -1,4 +1,7 @@
-Day 2:
+#Recursion
+Day 1:
 *Theory of Backtracking
 *Permutation of String
 *N-Queens
+Day 2:
+*Problems on Recurssion
